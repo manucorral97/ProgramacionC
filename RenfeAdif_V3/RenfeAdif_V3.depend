@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1517218991 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\auxiliar\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	<dirent.h>
+	"../Interfaz/interfaz.h"
+	"../LibroClaves/Panel.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"../main/menus.h"
+	"../Estaciones/Estacion.h"
+	"../Estaciones/ListaEstaciones.h"
+	"../Paradas/ListaParadas.h"
+	"../Paradas/Parada.h"
+	"../main/config.h"
+	"auxiliar.h"
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\interfaz\interfaz.h
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\libroclaves\panel.h
+
+1517223907 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\trayectos\listatrayectos.h
+	<stdbool.h>
+	"../main/config.h"
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\main\config.h
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\trayectos\trayecto.h
+	"../main/config.h"
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\main\menus.h
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\estaciones\estacion.h
+	<stdbool.h>
+	"../main/config.h"
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\estaciones\listaestaciones.h
+	"../main/config.h"
+	<stdbool.h>
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\paradas\listaparadas.h
+	"../main/config.h"
+
+1517218992 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\paradas\parada.h
+	"../main/config.h"
+
+1517218991 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\auxiliar\auxiliar.h
+	<stdbool.h>
+
+1517220033 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\estaciones\estacion.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"../auxiliar/auxiliar.h"
+	"../Interfaz/interfaz.h"
+	"../LibroClaves/Panel.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"../main/menus.h"
+	"../Paradas/ListaParadas.h"
+	"../Paradas/Parada.h"
+	"../main/config.h"
+	"Estacion.h"
+	"ListaEstaciones.h"
+	"EstacionesCercanas.h"
+
+1517221009 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\estaciones\estacionescercanas.h
+
+1517220842 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\estaciones\listaestaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"../auxiliar/auxiliar.h"
+	"../Interfaz/interfaz.h"
+	"../LibroClaves/Panel.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"../main/menus.h"
+	"../Paradas/ListaParadas.h"
+	"../Paradas/Parada.h"
+	"../main/config.h"
+	"Estacion.h"
+	"ListaEstaciones.h"
+	"EstacionesCercanas.h"
+
+1517218992 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\interfaz\interfaz.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	"../auxiliar/auxiliar.h"
+	"../Estaciones/Estacion.h"
+	"../Estaciones/ListaEstaciones.h"
+	"../LibroClaves/Panel.h"
+	"../main/menus.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"interfaz.h"
+
+1517218992 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\libroclaves\panel.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	"../auxiliar/auxiliar.h"
+	"../Estaciones/Estacion.h"
+	"../Estaciones/ListaEstaciones.h"
+	"../Interfaz/interfaz.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"../main/menus.h"
+	"Panel.h"
+
+1517218992 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\main\mainrenfeadif.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"../auxiliar/auxiliar.h"
+	"../Estaciones/Estacion.h"
+	"../Estaciones/ListaEstaciones.h"
+	"../Interfaz/interfaz.h"
+	"../LibroClaves/Panel.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"../Paradas/ListaParadas.h"
+	"../Paradas/Parada.h"
+	"config.h"
+	"menus.h"
+
+1517222217 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\main\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"../auxiliar/auxiliar.h"
+	"../Estaciones/Estacion.h"
+	"../Estaciones/ListaEstaciones.h"
+	"../Interfaz/interfaz.h"
+	"../LibroClaves/Panel.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"../Paradas/ListaParadas.h"
+	"../Paradas/Parada.h"
+	"config.h"
+	"menus.h"
+
+1517218992 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\paradas\parada.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"../auxiliar/auxiliar.h"
+	"../Interfaz/interfaz.h"
+	"../LibroClaves/Panel.h"
+	"../Trayectos/ListaTrayectos.h"
+	"../Trayectos/Trayecto.h"
+	"../main/menus.h"
+	"../main/config.h"
+	"../Estaciones/Estacion.h"
+	"../Estaciones/ListaEstaciones.h"
+	"Parada.h"
+	"ListaParadas.h"
+
+1517224228 source:c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\trayectos\trayecto.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	"../auxiliar/auxiliar.h"
+	"../Estaciones/Estacion.h"
+	"../Estaciones/ListaEstaciones.h"
+	"../Interfaz/interfaz.h"
+	"../LibroClaves/Panel.h"
+	"../main/menus.h"
+	"../Paradas/ListaParadas.h"
+	"../Paradas/Parada.h"
+	"ListaTrayectos.h"
+	"Trayecto.h"
+	"TrayectosDiarios.h"
+
+1517225666 c:\users\manu corral\downloads\renfeadif_v3+ampliaciones\renfeadif_v3\trayectos\trayectosdiarios.h
+	<stdbool.h>
+

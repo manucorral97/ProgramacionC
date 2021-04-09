@@ -1,0 +1,127 @@
+ID;Nombre;Provincia;Latitud;Longitud
+03208;Cuenca-Fernando Zóbel;Cuenca;40.035468;-2.146089
+03216;Valencia-Joaquín Sorolla;Valencia;39.46023611;-0.381786111
+03309;Villena AV;Alicante;38.585;-0.873333333
+04040;Zaragoza-Delicias;Zaragoza;41.658;-0.911
+08004;Segovia AV;Segovia;40.935;-4.112
+10200;Villalba de Guadarrama;Madrid;40.628;-4.006
+10203;El Escorial;Madrid;40.58527778;-4.1325
+10204;Zarzalejo;Madrid;40.53888889;-4.158055556
+10205;Robledo de Chavela;Madrid;41.290633;-4.923183
+10206;Santa María de la Alameda;Madrid;40.56888889;-4.269444444
+10207;Las Navas del Marqués;Ávila;40.58916667;-4.361388889
+10208;Navalperal;Ávila;40.59083333;-4.408333333
+10300;Herradón-La Cañada;Ávila;40.59944444;-4.495
+10400;Ávila;Ávila;40.658;-4.682
+10409;Arévalo;Ávila;41.049;-4.701
+10499;Medina del Campo AV;Valladolid;41.290633;-4.923183
+10500;Medina del Campo;Valladolid;41.317459;-4.910071
+10501;Pozaldez;Valladolid;41.36766389;-4.835552778
+10502;Matapozuelos;Valladolid;41.42245;-4.801266667
+10503;Valdestillas;Valladolid;41.48871111;-4.773122222
+10504;Viana de Cega;Valladolid;41.52401944;-4.754669444
+10600;Valladolid;Valladolid;41.642227;-4.7271
+10602;Cabezón de Pisuerga;Valladolid;41.73722222;-4.651388889
+10603;Corcos-Aguilarejo;Valladolid;41.76638889;-4.623333333
+10604;Cubillas de Santa Marta;Palencia;41.80888889;-4.579722222
+10605;Dueñas;Palencia;41.87194444;-4.540833333
+10610;Valladolid-Universidad;Valladolid;41.66027778;-4.704166667
+11000;Venta de Baños;Palencia;41.914;-4.501
+11014;Burgos-Rosa de Lima;Burgos;42.37111111;-3.666111111
+11100;Burgos;Burgos;42.336;-3.706
+11109;Briviesca;Burgos;42.544;-3.318
+11200;Miranda de Ebro;Burgos;42.69;-2.949
+11208;Vitoria/Gasteiz;Álava;42.84138889;-2.672777778
+11300;Altsasu;Navarra;42.896;-2.179
+11400;Zumárraga;Guipúzcoa;43.08722222;-2.32
+11500;Tolosa;Tolosa;43.13555556;-2.079166667
+11511;San Sebastián/Donostia;Guipúzcoa;43.319;-1.975
+11600;Irún;Guipúzcoa;43.339;-1.802
+11602;Hendaya;Francia;43.353;-1.782
+13106;Llodio;Álava;43.143;-2.96
+13200;Bilbao-Abando;Vizcaya;43.261;-2.927
+14100;Palencia;Palencia;42.017;-4.533
+14101;Monzón de Campos;Palencia;42.10555556;-4.501666667
+14102;Amusco;Palencia;42.17833333;-4.480555556
+14103;Piña;Palencia;42.21166667;-4.434444444
+14104;Frómista;Palencia;42.265;-4.4025
+14107;Osorno;Palencia;42.415;-4.357222222
+14108;Espinosa de Villagonzalo;Palencia;42.479;-4.374480556
+14111;Herrera de Pisuerga;Palencia;42.5986;-4.31655
+14112;Alar del Rey-San Quirce;Palencia;42.6568;-4.311380556
+14113;Mave;Palencia;42.7234;-4.275669444
+14114;Aguilar de Campoo;Palencia;42.78527778;-4.233888889
+14115;Quintanilla de las Torres;Palencia;42.8189;-4.202719444
+14117;El Carrión;Palencia;42.11666667;-4.495833333
+14200;Mataporquera;Cantabria;42.8712;-4.165061111
+14202;Reinosa;Cantabria;42.9948;-4.140611111
+14206;Bárcena;Cantabria;43.12856111;-4.053858333
+14210;Los Corrales de Buelna;Cantabria;43.255;-4.063888889
+14213;Torrelavega;Cantabria;43.352;-4.05
+14216;Renedo;Cantabria;43.35305556;-3.949444444
+14220;Maliaño;Cantabria;43.41743611;-3.842086111
+14223;Santander;Cantabria;43.459;-3.81
+14230;Valdecilla;Cantabria;43.45401389;-3.827927778
+14234;Pesquera;Cantabria;43.08222222;-4.073888889
+15004;Paredes de Nava;Palencia;42.152;-4.696
+15007;Villada;Palencia;42.246;-4.969
+15009;Sahagún;León;42.371;-5.021
+15100;León;León;42.605;-5.57
+15122;Pola de Lena;Asturias;43.15916667;-5.831111111
+15203;Mieres-Puente;Asturias;43.25;-5.782
+15211;Oviedo;Asturias;43.369;-5.852
+15403;Gijón-Cercanías;Asturias;43.54;-5.667
+15410;Gijón;Gijón;43.53777778;-5.675277778
+17000;Madrid-Chamartín;Madrid;40.473;-3.681
+17200;Aranda de Duero-Montecillo;Burgos;41.668;-3.699
+18000;Madrid-Atocha-Cercanías;Madrid;40.407;-3.688
+20005;Veguellina;León;42.433;-5.887
+20100;Astorga;León;42.46;-6.046
+20104;Brañuelas;León;42.636993;-6.208269
+20111;Bembibre;León;42.61;-6.423
+20200;Ponferrada;León;42.546;-6.601
+20211;O Barco de Valdeorras;Ourense;42.418;-6.985
+20213;A Rua Petín;Orense;42.393;-7.112
+20216;San Clodio-Quiroga;Lugo;42.466;-7.289
+20300;Monforte de Lemos;Lugo;42.532;-7.501
+20305;Sarriá;Lugo;42.786;-7.417
+20309;Lugo;Lugo;43.017;-7.553
+20314;Guitiriz;Lugo;43.18;-7.896
+20317;Curtis;A Coruña;43.128;-8.148
+20400;Betanzos-Infesta;A Coruña;43.271;-8.225
+21001;Betanzos-Cidade;A Coruña;43.285;-8.214
+21004;Pontedeume;A Coruña;43.413;-8.179
+21010;Ferrol;A Coruña;43.49;-8.228
+22100;Ourense-Empalme;Ourense;42.351;-7.873
+30100;Salamanca;Salamanca;40.973;-5.647
+31304;O Carballiño;Orense;42.431;-8.068
+31400;Santiago de Compostela;A Coruña;42.873;-8.542
+31412;A Coruña-San Cristóbal;A Coruña;43.352;-8.41
+32004;Cantalapiedra;Salamanca;41.135;-5.182
+60000;Madrid-Puerta de Atocha;Madrid;40.406397;-3.690387
+60200;Aranjuez;Madrid;40.036;-3.617
+60400;Alcázar de San Juan;Ciudad Real;39.397;-3.204
+60600;Albacete-Los Llanos;Albacete;38.99972222;-1.847777778
+60800;Almansa;Albacete;38.868;-1.106
+60905;Elda-Petrer;Alicante;38.486;-0.8
+60911;Alacant-Terminal;Alicante;38.34460556;-0.495483333
+65200;Sagunto;Sagunto;39.67583333;-0.271666667
+65300;Castellón de la Plana;Castellón de la Plana;39.98833333;-0.0525
+65304;Oropesa del Mar;Castellón de la Plana;40.09222222;-0.139722222
+65318;Benicasim;Castellón de la Plana;40.05833333;-0.0575
+71400;Reus;Tarragona;41.161;1.101
+71500;Tarragona;Tarragona;41.111;1.223
+71600;Sant Vicenç de Calders;Tarragona;41.204;1.515
+71801;Barcelona-Sants;Barcelona;41.375;2.135
+76004;Valls;Tarragona;41.289;1.259
+78200;Tardienta;Huesca;41.977;-0.539
+78301;Monzón - Río Cinca;Huesca;41.915;0.2
+78400;Lleida;Lleida;41.622;0.634
+80100;Pamplona;Navarra;42.826;-1.66
+80108;Tafalla;Navarra;42.527;-1.67
+81002;Haro;La Rioja;42.584;-2.847
+81100;Logroño;La Rioja;42.459;-2.441
+81108;Calahorra;La Rioja;42.312;-1.957
+81110;Alfaro;La Rioja;42.186;-1.748
+81200;Castejón de Ebro;Navarra;42.173;-1.696
+81202;Tudela;Navarra;42.06;-1.596

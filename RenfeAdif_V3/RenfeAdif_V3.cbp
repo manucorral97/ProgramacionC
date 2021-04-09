@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="RenfeAdif_V3" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/RenfeAdif_V3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/RenfeAdif_V3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Estaciones/Estacion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Estaciones/Estacion.h" />
+		<Unit filename="Estaciones/EstacionesCercanas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Estaciones/EstacionesCercanas.h" />
+		<Unit filename="Estaciones/ListaEstaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Estaciones/ListaEstaciones.h" />
+		<Unit filename="Interfaz/interfaz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Interfaz/interfaz.h" />
+		<Unit filename="LibroClaves/Panel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LibroClaves/Panel.h" />
+		<Unit filename="Paradas/ListaParadas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Paradas/ListaParadas.h" />
+		<Unit filename="Paradas/Parada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Paradas/Parada.h" />
+		<Unit filename="Trayectos/ListaTrayectos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Trayectos/ListaTrayectos.h" />
+		<Unit filename="Trayectos/Trayecto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Trayectos/Trayecto.h" />
+		<Unit filename="Trayectos/TrayectosDiarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Trayectos/TrayectosDiarios.h" />
+		<Unit filename="auxiliar/auxiliar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="auxiliar/auxiliar.h" />
+		<Unit filename="main/config.h" />
+		<Unit filename="main/mainRenfeAdif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main/menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main/menus.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,18 @@
+Gijón;Gijón;2613.768311
+Oviedo;Asturias;2595.682373
+Valladolid;Valladolid;2402.478027
+Madrid-Chamartín;Madrid;2277.214355
+Palencia;Palencia;2444.436768
+Aguilar de Campoo;Palencia;2530.594971
+Reinosa;Cantabria;2554.204834
+Torrelavega;Cantabria;2594.216064
+Santander;Cantabria;2607.297119
+León;León;2509.952637
+Segovia AV;Segovia;2325.874512
+Madrid-Puerta de Atocha;Madrid;2269.769775
+Cuenca-Fernando Zóbel;Cuenca;2246.385498
+Albacete-Los Llanos;Albacete;2137.797607
+Villena AV;Alicante;2113.177734
+Alacant-Terminal;Alicante;2096.740479
+Mieres-Puente;Asturias;2582.209229
+Pola de Lena;Asturias;2572.322266
